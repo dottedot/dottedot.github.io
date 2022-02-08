@@ -1,0 +1,16 @@
+/* 아래에 코드를 작성하시오. */
+body {
+  margin: 0;
+
+}
+article div p {
+  margin: 0;
+}
+
+footer {
+  height: 100px;
+}
+
+footer img {
+  height: 30px;
+}
